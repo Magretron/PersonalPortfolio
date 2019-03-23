@@ -11,13 +11,9 @@ body {
 
 .intro {
   top: 0;
-  background: #e0ebe8;
+  background: #EBEBEB;
   min-height: 55vh;
   padding-top: 45vh;
-  /*   line-height: 100vh; */
-  /*   width:100%;
-  height:96vh;
-border:solid; */
 }
 
 .intro p {
@@ -28,7 +24,7 @@ nav ul {
   text-align: right;
   position: fixed;
   width: 100%;
-  background-color: #e0ebe8;
+  background-color: #EBEBD4;
 }
 
 nav ul li {
@@ -66,8 +62,7 @@ nav ul li a:hover {
   border: 2px solid lightblue;
   height: 220px;
   width: 280px;
-  margin: 40px 100px;
-  /*   background: url("https://res.cloudinary.com/dck40m3wf/image/upload/v1455459914/Portfolio/fancy-floral-pattern-384.jpg") repeat; */
+  margin: 40px 160px;
 }
 
 .project-pic {
@@ -86,7 +81,7 @@ nav ul li a:hover {
   width: 200px;
   height: 30px;
   margin: 20px auto 90px;
-   background: #e0ebe8;
+  background: #e0ebe8;
   color: #008080;
   font-weight: bold;
   font-size: 1em;
@@ -147,8 +142,8 @@ nav ul li a:hover {
 
 footer {
   padding: 20px;
-  background: #22313F;
-  color: white;
+  background: #EBEBD4;
+  color: #008080;
   line-height: 40px;
 }
 
